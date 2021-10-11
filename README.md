@@ -1,5 +1,9 @@
-CACULADORA:
+CACULADORA
+
+
 FUNÇÕES:
+
+
 1 - Soma
 2 - Subtração
 3 - Multiplicação
